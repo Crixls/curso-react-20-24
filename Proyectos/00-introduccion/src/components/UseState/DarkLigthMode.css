@@ -1,0 +1,21 @@
+.default{
+    font-family: Arial;
+    padding: 20px;
+    transition: background-color 0.3s ease;
+
+}
+
+.dark{
+    background-color: #3333;
+    color: #fff;
+}
+
+.ligth{
+    background-color: #fff;
+    color: #3333;
+}
+
+
+/* En curso-react-2024
+
+git add . // git commit -am "clase 9" // git push origin main      haza esto */
